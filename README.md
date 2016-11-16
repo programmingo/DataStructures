@@ -1,4 +1,8 @@
 # DataStructures
-Study data structures on my own
+Study data structures on my own.
 
-On my Facebook fanpage you could looking for abbreviation "DS" on blog title.      
+I do this lecture with C/C++ or Matlab(Octave) programming.
+
+On my Facebook fanpage you could looking for abbreviation "DS" on blog title. 
+
+https://www.facebook.com/programmingo
