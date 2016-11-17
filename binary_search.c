@@ -1,3 +1,5 @@
+#include<stdlib.h>
+
 int binary_search(int *arr, int N, int find)
 {
  int left=0;
