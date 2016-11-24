@@ -3,7 +3,7 @@
 % compute factorial from 0 to 50
 clear all;
 
-n=input("Please input a number: ");
+n=input('Please input a number: ');
 
 a=1;
 for i=1:n
