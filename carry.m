@@ -1,4 +1,4 @@
-% carry function make shure there is only one digit store in an element of factorial array 
+% carry function make sure there is only one digit store in an element of factorial array 
 
 function arr=carry(a)
 
