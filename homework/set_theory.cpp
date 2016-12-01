@@ -1,3 +1,10 @@
+/*
+ * Data Structures
+ * HW 2
+ * practice c++ class with set theory
+ * main function
+ */
+
 #include<iostream>
 #include"set_class.hpp"
 
