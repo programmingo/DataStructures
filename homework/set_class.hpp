@@ -1,3 +1,12 @@
+/*
+ * Data Structures
+ * HW 2
+ * practice c++ class with set theory
+ * module of set theory computation 
+ * *.hpp file
+ */
+
+
 #include<iostream>
 #include<string>
 
