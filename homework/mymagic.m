@@ -9,7 +9,7 @@ i=1; j=fix((1+n)/2);
 
 
 for k=1:n^2
-   exist=(m(i,j) != 0);
+   exist=(m(i,j) ~= 0);
    if (exist)
      i=i+2; j=j+1;
      i(i == n+1)=1;
